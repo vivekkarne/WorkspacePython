@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\WorkspacePython\.metadata\.plugins\org.eclipse.core.resources\.projects\My_First_Project\com.python.pydev.analysis\v2_indexcache
+FirstModule|1513354061261463000|F:\WorkspacePython\My_First_Project\src\FirstModule.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=FirstModule
+-- END DICTIONARY
+-- START TREE 1
+2
+a|1|a!11@
+str|2|string_2!11@string_1!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
